@@ -1,0 +1,40 @@
+body {
+  background-color: #e4f9f5;
+  color: #40514E;
+}
+
+hr {
+  background-color: #e4f9f5;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #11999e;
+}
+h3 {
+  color: #30e3ca;
+}
+
+p {
+  color: #40514e;
+}
+
+table{
+  color: #40514e;
+}
+
+ul{
+  color: #40514e;
+}
+
+ol{
+  color: #40514e;
+}
